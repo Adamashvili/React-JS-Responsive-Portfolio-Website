@@ -1,6 +1,8 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import IntroHero from '../components/IntroHero'
+import Footer from '../components/footer'
+
 
 
 
@@ -10,6 +12,7 @@ const Home = () => {
     <div>
     <Navbar/>
     <IntroHero/>
+    <Footer/>
 
     </div>
   )

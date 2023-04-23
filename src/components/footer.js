@@ -25,7 +25,7 @@ const Footer= () => {
 
           <div className="right">
             <h4>About Me</h4>
-            <p>My name is Irakli Adamashvili. Front-END Web Developer, I`m working with React JS and Angular 15. I enjoy disguising new projects and design challenges</p>
+            <p>My name is Irakli Adamashvili. I`m` Front-END Web Developer, I`m working with React JS and Angular 15. I enjoy disguising new projects and design challenges</p>
             <div className="social">
             <a href="https://www.facebook.com/irakli.adamashvili" target="_blank"  rel="noreferrer" ><FaFacebook size={20} style={{color: "#fff", marginRight: "1rem"}}/></a>
             <a href="https://www.instagram.com/adamashvili.irakli/" target="_blank"  rel="noreferrer" ><FaInstagram size={20} style={{color: "#fff", marginRight: "1rem"}}/></a>

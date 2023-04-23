@@ -2,7 +2,6 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/footer'
 import HeroImg2 from '../components/HeroImg2'
-import WorkCard from '../components/workCard'
 import PricingCard from '../components/PricingCard'
 import Work from '../components/Work'
 

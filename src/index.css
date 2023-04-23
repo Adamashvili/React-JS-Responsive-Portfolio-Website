@@ -32,6 +32,19 @@
     cursor: pointer;
   }
 
+  .btn-card {
+    padding: 12px 32px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background: rgb(248, 217, 17);
+    color: #222;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  
+
   .btn-light {
     background: transparent;
     color: #fff;

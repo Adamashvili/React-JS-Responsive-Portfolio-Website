@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-JS-Responsive-Portfolio-Website/static/css/main.dad439d1.css",
+    "main.js": "/React-JS-Responsive-Portfolio-Website/static/js/main.d697fa32.js",
+    "static/js/787.67b99310.chunk.js": "/React-JS-Responsive-Portfolio-Website/static/js/787.67b99310.chunk.js",
+    "static/media/intro.jpg": "/React-JS-Responsive-Portfolio-Website/static/media/intro.918dbfe6fd5934b5c724.jpg",
+    "static/media/coffee.jpg": "/React-JS-Responsive-Portfolio-Website/static/media/coffee.bc66973047a08cef63bc.jpg",
+    "static/media/react2.jpg": "/React-JS-Responsive-Portfolio-Website/static/media/react2.7dbb93809b59133fb7c2.jpg",
+    "static/media/reactlogo.jpg": "/React-JS-Responsive-Portfolio-Website/static/media/reactlogo.56c107e983fa9587fc11.jpg",
+    "static/media/angular.jpg": "/React-JS-Responsive-Portfolio-Website/static/media/angular.1e2276a1c9317292856a.jpg",
+    "static/media/angularlogo.jpg": "/React-JS-Responsive-Portfolio-Website/static/media/angularlogo.3f8c006d1821cc999938.jpg",
+    "index.html": "/React-JS-Responsive-Portfolio-Website/index.html",
+    "main.dad439d1.css.map": "/React-JS-Responsive-Portfolio-Website/static/css/main.dad439d1.css.map",
+    "main.d697fa32.js.map": "/React-JS-Responsive-Portfolio-Website/static/js/main.d697fa32.js.map",
+    "787.67b99310.chunk.js.map": "/React-JS-Responsive-Portfolio-Website/static/js/787.67b99310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dad439d1.css",
+    "static/js/main.d697fa32.js"
+  ]
+}
